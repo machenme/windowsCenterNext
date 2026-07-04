@@ -3,13 +3,14 @@
 
 #define MyAppName "Window Centering Next"
 #define MyAppVersion "1.0.0"
-#define MyAppPublisher "KamilSzymborski"
-#define MyAppURL "https://kamilszymborski.github.io"
+#define MyAppPublisher "machenme"
+#define MyAppURL "https://github.com/machenme/WindowCenteringNext"
 #define MyAppExeName "WindowCenteringNext.exe"
 
 [Setup]
 AppId={{B710C43E-446D-4B4C-9CE8-0F9FDED11D55}}
 AppName={#MyAppName}
+SetupIconFile=WindowCenteringNext.ico
 AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
 AppSupportURL={#MyAppURL}

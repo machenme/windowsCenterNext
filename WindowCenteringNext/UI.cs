@@ -53,15 +53,15 @@ namespace WindowCenteringNext
 		// Token: 0x0600008B RID: 139 RVA: 0x00003BA4 File Offset: 0x00001DA4
 		private void _Init()
 		{
-			this.linkLabel1.BackColor = GlobalMetroColor.Color;
+// 			this.linkLabel1.BackColor = GlobalMetroColor.Color;
 			this.linkLabel2.Click += delegate(object Instance, EventArgs Arguments)
 			{
 				Application.Exit();
 			};
-			this.linkLabel1.Click += delegate(object Instance, EventArgs Arguments)
-			{
-				Process.Start("https://kamilszymborski.github.io");
-			};
+// 			this.linkLabel1.Click += delegate(object Instance, EventArgs Arguments)
+// 			{
+// 				Process.Start("https://github.com/machenme/windowsCenterNext");
+// 			};
 			this.metroToggle1.CheckedChanged += delegate(object Instance, EventArgs Arguments)
 			{
 				if (this.metroToggle1.Checked)

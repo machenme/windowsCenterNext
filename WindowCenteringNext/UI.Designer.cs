@@ -103,7 +103,7 @@
 			this.label7 = new global::System.Windows.Forms.Label();
 			this.label1 = new global::System.Windows.Forms.Label();
 			this.panel2 = new global::System.Windows.Forms.Panel();
-			this.linkLabel1 = new global::System.Windows.Forms.LinkLabel();
+// 			this.linkLabel1 = new global::System.Windows.Forms.LinkLabel();
 			this.label33 = new global::System.Windows.Forms.Label();
 			this.metroPanel18 = new global::MetroFramework.Controls.MetroPanel();
 			this.tableLayoutPanel11 = new global::System.Windows.Forms.TableLayoutPanel();
@@ -139,7 +139,7 @@
 			this.panel12.SuspendLayout();
 			base.SuspendLayout();
 			this.panel1.Controls.Add(this.metroPanel8);
-			this.panel1.Controls.Add(this.linkLabel1);
+// 			this.panel1.Controls.Add(this.linkLabel1);
 			this.panel1.Dock = global::System.Windows.Forms.DockStyle.Fill;
 			this.panel1.Location = new global::System.Drawing.Point(0, 0);
 			this.panel1.Margin = new global::System.Windows.Forms.Padding(0);
@@ -344,7 +344,7 @@
 			this.label26.Name = "label26";
 			this.label26.Size = new global::System.Drawing.Size(118, 17);
 			this.label26.TabIndex = 109;
-			this.label26.Text = "Kamil Szymborski";
+			this.label26.Text = "machenme";
 			this.label27.AutoSize = true;
 			this.label27.Dock = global::System.Windows.Forms.DockStyle.Top;
 			this.label27.Font = new global::System.Drawing.Font("Microsoft YaHei", 10f, global::System.Drawing.FontStyle.Regular, global::System.Drawing.GraphicsUnit.Point, 0);
@@ -1157,20 +1157,20 @@
 			this.panel2.Name = "panel2";
 			this.panel2.Size = new global::System.Drawing.Size(548, 15);
 			this.panel2.TabIndex = 106;
-			this.linkLabel1.ActiveLinkColor = global::System.Drawing.SystemColors.ControlDark;
-			this.linkLabel1.AutoSize = true;
-			this.linkLabel1.Dock = global::System.Windows.Forms.DockStyle.Bottom;
-			this.linkLabel1.Font = new global::System.Drawing.Font("Microsoft YaHei", 10f, global::System.Drawing.FontStyle.Regular, global::System.Drawing.GraphicsUnit.Point, 0);
-			this.linkLabel1.LinkBehavior = global::System.Windows.Forms.LinkBehavior.NeverUnderline;
-			this.linkLabel1.LinkColor = global::System.Drawing.Color.White;
-			this.linkLabel1.Location = new global::System.Drawing.Point(0, 664);
-			this.linkLabel1.Name = "linkLabel1";
-			this.linkLabel1.Padding = new global::System.Windows.Forms.Padding(4, 2, 4, 2);
-			this.linkLabel1.Size = new global::System.Drawing.Size(176, 21);
-			this.linkLabel1.TabIndex = 111;
-			this.linkLabel1.TabStop = true;
-			this.linkLabel1.Text = "kamilszymborski.github.io";
-			this.linkLabel1.VisitedLinkColor = global::System.Drawing.Color.White;
+// 			this.linkLabel1.ActiveLinkColor = global::System.Drawing.SystemColors.ControlDark;
+// 			this.linkLabel1.AutoSize = true;
+// 			this.linkLabel1.Dock = global::System.Windows.Forms.DockStyle.Bottom;
+// 			this.linkLabel1.Font = new global::System.Drawing.Font("Microsoft YaHei", 10f, global::System.Drawing.FontStyle.Regular, global::System.Drawing.GraphicsUnit.Point, 0);
+// 			this.linkLabel1.LinkBehavior = global::System.Windows.Forms.LinkBehavior.NeverUnderline;
+// 			this.linkLabel1.LinkColor = global::System.Drawing.Color.White;
+// 			this.linkLabel1.Location = new global::System.Drawing.Point(0, 664);
+// 			this.linkLabel1.Name = "linkLabel1";
+// 			this.linkLabel1.Padding = new global::System.Windows.Forms.Padding(4, 2, 4, 2);
+// 			this.linkLabel1.Size = new global::System.Drawing.Size(176, 21);
+// 			this.linkLabel1.TabIndex = 111;
+// 			this.linkLabel1.TabStop = true;
+// 			this.linkLabel1.Text = "https://github.com/machenme/windowsCenterNext";
+// 			this.linkLabel1.VisitedLinkColor = global::System.Drawing.Color.White;
 			base.AutoScaleDimensions = new global::System.Drawing.SizeF(9f, 20f);
 			base.AutoScaleMode = global::System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = global::System.Drawing.Color.White;
@@ -1505,7 +1505,7 @@
 		private global::System.Windows.Forms.Panel panel2;
 
 		// Token: 0x040000AF RID: 175
-		private global::System.Windows.Forms.LinkLabel linkLabel1;
+// 		private global::System.Windows.Forms.LinkLabel linkLabel1;
 
 		// Token: 0x040000B0 RID: 176
 		private global::MetroFramework.Controls.MetroProgressBar metroProgressBar1;
