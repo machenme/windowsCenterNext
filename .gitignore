@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.DotSettings.user
+
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.exe.config
+
+# NuGet
+packages/
+*.nupkg
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+[Dd]esktop.ini
